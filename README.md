@@ -11,7 +11,7 @@ Solutions to HackerRank practice challenges
 | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum)  | [Java](https://github.com/oknowles/hackerrank/blob/master/algorithms/warmup/AVeryBigSum.java) | O(n) | O(1) |
 | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference)  | [Java](https://github.com/oknowles/hackerrank/blob/master/algorithms/warmup/DiagonalDifference.java) | O(n) | O(1) |
 | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus)  | [Java](https://github.com/oknowles/hackerrank/blob/master/algorithms/warmup/PlusMinus.java) | O(n) | O(1) |
-| [Staircase](https://www.hackerrank.com/challenges/staircase)  ||||
+| [Staircase](https://www.hackerrank.com/challenges/staircase)  | [Java](https://github.com/oknowles/hackerrank/blob/master/algorithms/warmup/Staircase.java) | O(n) | O(n) |
 | [Min-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum) ||||
 | [Birthday Cake Candles](https://www.hackerrank.com/challenges/birthday-cake-candles)  ||||
 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion)  ||||
