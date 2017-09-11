@@ -25,5 +25,7 @@ public class Solution {
         System.out.println(positiveCount / (double) count);
         System.out.println(negativeCount / (double) count);
         System.out.println(zeroCount / (double) count);
+
+        scanner.close();
     }
 }
