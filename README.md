@@ -20,7 +20,7 @@ Solutions to HackerRank practice challenges
 #### Easy ####
 | Challenge        | Solution      | Time Complexity | Space Complexity |
 | ---------------- | ------------- | --------------- | ---------------- |
-| [Grading Students](https://www.hackerrank.com/challenges/grading) |  | |  |
+| [Grading Students](https://www.hackerrank.com/challenges/grading) | [Java](https://github.com/oknowles/hackerrank/blob/master/algorithms/implementation/GradingStudents.java) | O(n) | O(1) |
 | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange) | [Java](https://github.com/oknowles/hackerrank/blob/master/algorithms/implementation/AppleAndOrange.java) | O(n) | O(1) |
 | [Kangaroo](https://www.hackerrank.com/challenges/kangaroo) |  |  |  |
 | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets) |  |  |  |
