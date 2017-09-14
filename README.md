@@ -37,8 +37,8 @@ Solutions to HackerRank practice challenges
 | [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials) | [Java](https://github.com/oknowles/hackerrank/blob/master/algorithms/implementation/ExtraLongFactorials.java) | O(n) | O(1) |
 | [Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset) | [Java](https://github.com/oknowles/hackerrank/blob/master/algorithms/implementation/NonDivisibleSubset.java) | O(n) | O(n) |
 | [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2) | [Java](https://github.com/oknowles/hackerrank/blob/master/algorithms/implementation/QueensAttackII.java) | O(1) | O(1) |
-| [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls) |  |  |  |
-| [Encryption](https://www.hackerrank.com/challenges/encryption) |  |  |  |
+| [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls) | [Java](https://github.com/oknowles/hackerrank/blob/master/algorithms/implementation/OrganizingContainersOfBalls.java) | O(n) | O(n) |
+| [Encryption](https://www.hackerrank.com/challenges/encryption) | [Java](https://github.com/oknowles/hackerrank/blob/master/algorithms/implementation/Encryption.java) | O(n) | O(n) |
 | [Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater) |  |  |  |
 | [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words) |  |  |  |
 | [The Grid Search](https://www.hackerrank.com/challenges/the-grid-search) |  |  |  |
