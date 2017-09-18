@@ -44,3 +44,23 @@ Solutions to HackerRank practice challenges
 | [The Grid Search](https://www.hackerrank.com/challenges/the-grid-search) |  |  |  |
 | [Absolute Permutation](https://www.hackerrank.com/challenges/absolute-permutation) |  |  |  |
 | [The Bomberman Game](https://www.hackerrank.com/challenges/bomber-man) |  |  |  |
+
+### Strings ###
+#### Easy ####
+| Challenge        | Solution      | Time Complexity | Space Complexity |
+| [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string) | [Java](https://github.com/oknowles/hackerrank/blob/master/algorithms/strings/SuperReducedString.java) | O(n) | O(n) |
+
+
+### Dynamic Programming ###
+#### Hard ####
+| Challenge        | Solution      | Time Complexity | Space Complexity |
+| [The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change) | [Java](https://github.com/oknowles/hackerrank/blob/master/algorithms/dynamicProgramming/TheCoinChangeProblem.java) | O(|C|n) | O(n) |
+| [Decibinary Numbers](https://www.hackerrank.com/challenges/decibinary-numbers) |  |  |  |
+| [Angry Children 2](https://www.hackerrank.com/challenges/angry-children-2) |  |  |  |
+| [Sherlock's Array Merging Algorithm](https://www.hackerrank.com/challenges/sherlocks-array-merging-algorithm) |  |  |  |
+| [Brick Tiling](https://www.hackerrank.com/challenges/brick-tiling) |  |  |  |
+| [Alien Languages](https://www.hackerrank.com/challenges/alien-languages) |  |  |  |
+| [Tara's Beautiful Permutations](https://www.hackerrank.com/challenges/taras-beautiful-permutations) |  |  |  |
+| [Choosing White Balls](https://www.hackerrank.com/challenges/choosing-white-balls) |  |  |  |
+| [The Longest Increasing Subsequence](https://www.hackerrank.com/challenges/longest-increasing-subsequent) |  |  |  |
+| [Black and White Tree](https://www.hackerrank.com/challenges/black-n-white-tree-1) |  |  |  |
