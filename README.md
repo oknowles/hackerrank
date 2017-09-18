@@ -56,7 +56,7 @@ Solutions to HackerRank practice challenges
 #### Hard ####
 | Challenge        | Solution      | Time Complexity | Space Complexity |
 | ---------------- | ------------- | --------------- | ---------------- |
-| [The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change) | [Java](https://github.com/oknowles/hackerrank/blob/master/algorithms/dynamicProgramming/TheCoinChangeProblem.java) | O(|C|n) | O(n) |
+| [The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change) | [Java](https://github.com/oknowles/hackerrank/blob/master/algorithms/dynamicProgramming/TheCoinChangeProblem.java) | O(\|C\|n) | O(n) |
 | [Decibinary Numbers](https://www.hackerrank.com/challenges/decibinary-numbers) |  |  |  |
 | [Angry Children 2](https://www.hackerrank.com/challenges/angry-children-2) |  |  |  |
 | [Sherlock's Array Merging Algorithm](https://www.hackerrank.com/challenges/sherlocks-array-merging-algorithm) |  |  |  |
