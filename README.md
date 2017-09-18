@@ -50,6 +50,15 @@ Solutions to HackerRank practice challenges
 | Challenge        | Solution      | Time Complexity | Space Complexity |
 | ---------------- | ------------- | --------------- | ---------------- |
 | [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string) | [Java](https://github.com/oknowles/hackerrank/blob/master/algorithms/strings/SuperReducedString.java) | O(n) | O(n) |
+| [CamelCase](https://www.hackerrank.com/challenges/camelcase) | [Java](https://github.com/oknowles/hackerrank/blob/master/algorithms/strings/CamelCase.java) | O(n) | O(1) |
+| [Two Characters](https://www.hackerrank.com/challenges/two-characters) |  |  |  |
+| [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1) |  |  |  |
+| [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration) |  |  |  |
+| [HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string) |  |  |  |
+| [Pangrams](https://www.hackerrank.com/challenges/pangrams) |  |  |  |
+| [Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string) |  |  |  |
+| [Separate the Numbers](https://www.hackerrank.com/challenges/separate-the-numbers) |  |  |  |
+| [Funny String](https://www.hackerrank.com/challenges/funny-string) |  |  |  |
 
 
 ### Dynamic Programming ###
