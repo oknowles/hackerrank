@@ -48,12 +48,14 @@ Solutions to HackerRank practice challenges
 ### Strings ###
 #### Easy ####
 | Challenge        | Solution      | Time Complexity | Space Complexity |
+| ---------------- | ------------- | --------------- | ---------------- |
 | [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string) | [Java](https://github.com/oknowles/hackerrank/blob/master/algorithms/strings/SuperReducedString.java) | O(n) | O(n) |
 
 
 ### Dynamic Programming ###
 #### Hard ####
 | Challenge        | Solution      | Time Complexity | Space Complexity |
+| ---------------- | ------------- | --------------- | ---------------- |
 | [The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change) | [Java](https://github.com/oknowles/hackerrank/blob/master/algorithms/dynamicProgramming/TheCoinChangeProblem.java) | O(|C|n) | O(n) |
 | [Decibinary Numbers](https://www.hackerrank.com/challenges/decibinary-numbers) |  |  |  |
 | [Angry Children 2](https://www.hackerrank.com/challenges/angry-children-2) |  |  |  |
