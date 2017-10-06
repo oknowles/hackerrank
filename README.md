@@ -65,15 +65,19 @@ Solutions to HackerRank practice challenges
 | Challenge        | Solution      | Time Complexity | Space Complexity |
 | ---------------- | ------------- | --------------- | ---------------- |
 | [Big Sorting](https://www.hackerrank.com/challenges/big-sorting) | [Java](https://github.com/oknowles/hackerrank/blob/master/algorithms/sorting/BigSorting.java) | O(nlog(n)) | O(1) |
-| [Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro) |  |  |  |
-| [Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1) |  |  |  |
-| [Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2) |  |  |  |
-| [Correctness and the Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant) |  |  |  |
-| [Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime) |  |  |  |
-| [Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1) |  |  |  |
-| [Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1) |  |  |  |
-| [Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2) |  |  |  |
-| [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4) |  |  |  |
+| [Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro) | [Java](https://github.com/oknowles/hackerrank/blob/master/algorithms/sorting/IntoToTutorialChallenges.java) | O(n) | O(1) |
+| [Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1) | [Java](https://github.com/oknowles/hackerrank/blob/master/algorithms/sorting/InsertionSortPart1.java) | O(n^2) | O(n) |
+| [Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2) | [Java](https://github.com/oknowles/hackerrank/blob/master/algorithms/sorting/InsertionSortPart2.java) | O(n^2) | O(n) |
+| [Correctness and the Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant) | [Java](https://github.com/oknowles/hackerrank/blob/master/algorithms/sorting/CorrectnessAndTheLoopInvariant.java) | O(n^2) | O(n) |
+| [Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime) | [Java](https://github.com/oknowles/hackerrank/blob/master/algorithms/sorting/RunningTimeOfAlgorithms.java) | O(n^2) | O(n) |
+| [Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1) | [Java](https://github.com/oknowles/hackerrank/blob/master/algorithms/sorting/Quicksort1Partition.java) | O(n) | O(n) |
+| [Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1) | [Java](https://github.com/oknowles/hackerrank/blob/master/algorithms/sorting/CountingSort1.java) | O(n) | O(1) |
+| [Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2) | [Java](https://github.com/oknowles/hackerrank/blob/master/algorithms/sorting/CountingSort2.java) | O(n) | O(1) |
+
+#### Medium ####
+| Challenge        | Solution      | Time Complexity | Space Complexity |
+| ---------------- | ------------- | --------------- | ---------------- |
+| [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4) | [Java](https://github.com/oknowles/hackerrank/blob/master/algorithms/sorting/TheFullCountingSort.java) | O(n) | O(1) |
 
 ### Dynamic Programming ###
 #### Hard ####
