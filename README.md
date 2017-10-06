@@ -64,16 +64,16 @@ Solutions to HackerRank practice challenges
 #### Easy ####
 | Challenge        | Solution      | Time Complexity | Space Complexity |
 | ---------------- | ------------- | --------------- | ---------------- |
-| (Big Sorting)[https://www.hackerrank.com/challenges/big-sorting] | [Java](https://github.com/oknowles/hackerrank/blob/master/algorithms/sorting/BigSorting.java) | O(nlog(n)) | O(1) |
-| (Intro to Tutorial Challenges)[https://www.hackerrank.com/challenges/tutorial-intro] |  |  |  |
-| (Insertion Sort - Part 1)[https://www.hackerrank.com/challenges/insertionsort1] |  |  |  |
-| (Insertion Sort - Part 2)[https://www.hackerrank.com/challenges/insertionsort2] |  |  |  |
-| (Correctness and the Loop Invariant)[https://www.hackerrank.com/challenges/correctness-invariant] |  |  |  |
-| (Running Time of Algorithms)[https://www.hackerrank.com/challenges/runningtime] |  |  |  |
-| (Quicksort 1 - Partition)[https://www.hackerrank.com/challenges/quicksort1] |  |  |  |
-| (Counting Sort 1)[https://www.hackerrank.com/challenges/countingsort1] |  |  |  |
-| (Counting Sort 2)[https://www.hackerrank.com/challenges/countingsort2] |  |  |  |
-| (The Full Counting Sort)[https://www.hackerrank.com/challenges/countingsort4] |  |  |  |
+| [Big Sorting](https://www.hackerrank.com/challenges/big-sorting) | [Java](https://github.com/oknowles/hackerrank/blob/master/algorithms/sorting/BigSorting.java) | O(nlog(n)) | O(1) |
+| [Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro) |  |  |  |
+| [Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1) |  |  |  |
+| [Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2) |  |  |  |
+| [Correctness and the Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant) |  |  |  |
+| [Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime) |  |  |  |
+| [Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1) |  |  |  |
+| [Counting Sort 1](https://www.hackerrank.com/challenges/countingsort1) |  |  |  |
+| [Counting Sort 2](https://www.hackerrank.com/challenges/countingsort2) |  |  |  |
+| [The Full Counting Sort](https://www.hackerrank.com/challenges/countingsort4) |  |  |  |
 
 ### Dynamic Programming ###
 #### Hard ####
