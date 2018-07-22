@@ -1,5 +1,13 @@
-# hackerrank #
-Solutions to HackerRank practice challenges
+<p align="center">
+    <a href="https://www.hackerrank.com/oknowles">
+        <img height=100 src="./img/HackerRank.png">
+    </a>
+  <br>Solutions to HackerRank practice challenges
+</p>
+
+# Tracks #
+[Algorithms](https://github.com/oknowles/hackerrank#algorithms)  
+[Data Structures](https://github.com/oknowles/hackerrank#datastructures)
 
 ## Algorithms ##
 ### Warmup ###
@@ -93,3 +101,9 @@ Solutions to HackerRank practice challenges
 | [Choosing White Balls](https://www.hackerrank.com/challenges/choosing-white-balls) |  |  |  |
 | [The Longest Increasing Subsequence](https://www.hackerrank.com/challenges/longest-increasing-subsequent) |  |  |  |
 | [Black and White Tree](https://www.hackerrank.com/challenges/black-n-white-tree-1) |  |  |  |
+
+## Data Structures ##
+### Arrays ###
+| Challenge        | Solution      | Time Complexity | Space Complexity |
+| ---------------- | ------------- | --------------- | ---------------- |
+| [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds/problem) | | | |
