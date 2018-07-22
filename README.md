@@ -7,7 +7,7 @@
 
 # Tracks #
 [Algorithms](https://github.com/oknowles/hackerrank#algorithms)  
-[Data Structures](https://github.com/oknowles/hackerrank#datastructures)
+[Data Structures](https://github.com/oknowles/hackerrank#data-structures)
 
 ## Algorithms ##
 ### Warmup ###
